@@ -1,11 +1,11 @@
-# 🚐 AU VROOM — *Don’t Wait, Just Vroom*
+# 🚐💨 AU VROOM — *Don’t Wait, Just Vroom*
 
 AU VROOM is a **full-stack, mobile-first campus transportation platform** designed to modernize shuttle services at Africa University.
 It combines **real-time shuttle tracking, seat booking, on-demand rides, and digital payments** into one seamless student-centered experience.
 
 AU VROOM is built **from scratch**, using a production-grade architecture inspired by modern ride-hailing platforms (Uber-style systems), but **reimagined specifically for campus mobility**.
 
-
+<br>
 
 ## 🎯 Problem Statement
 
@@ -209,6 +209,3 @@ AU VROOM is architected using **modern full-stack mobile development principles*
 * Accessibility-aware routing
 * University system integration
 * Admin forecasting dashboards
-
-
-🚐💨
